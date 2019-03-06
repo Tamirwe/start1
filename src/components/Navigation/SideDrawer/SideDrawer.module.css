@@ -1,0 +1,14 @@
+nav {
+    float: left;
+    width: 20%;
+    min-height: 100vh;
+    background: #ccc;
+    padding: 20px;
+    overflow: hidden;
+  }
+
+ul{
+    list-style: none;
+    padding: 5px;
+    overflow: hidden;
+}
